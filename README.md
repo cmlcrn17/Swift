@@ -10,7 +10,7 @@
 
 [SwiftUI - Tab View 🗂](https://github.com/cmlcrn17/SwiftUI-TabView)
 
-[SwiftUI - Barcode Scanner 🎯](https://github.com/cmlcrn17/SwiftUI-BarcodeScanner)
+[SwiftUI - Barcode/QR Scanner 🎯](https://github.com/cmlcrn17/SwiftUI-BarcodeScanner)
 
 [SwiftUI - Background Task And Notification 🕝](https://github.com/cmlcrn17/Swift5-BackgroundTaskNotification)
 
