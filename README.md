@@ -16,7 +16,7 @@
 
 [SwiftUI - HealthKit Step 🚶🏽‍♀️](https://github.com/cmlcrn17/SwiftUI-HealthKitStep)
 
-[SwiftUI - Web Service (XML / Rest) ]()
+[SwiftUI - Web Service (XML / Rest) ⭐ ](https://github.com/cmlcrn17/SwiftUI-WebService)
 
 [TestFlight - Uygulama Yayınlamak 😆](https://medium.com/@cmlcrn17/testflight-kullanarak-uygulama-test-etmek-4c0dd4fdb5f7?sk=c5472476b8cea0009c6a3646258db7ea)
 
