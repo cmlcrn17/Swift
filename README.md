@@ -2,7 +2,7 @@
 
 [XCode - Versiyon Control 📌](https://github.com/cmlcrn17/XcodeVersiyonControl)
 
-[SwiftUI - Alerts ⚠️](https://github.com/cmlcrn17/SwiftUI-Alerts)
+[SwiftUI - Alerts & Firebase ⚠️](https://github.com/cmlcrn17/SwiftUI-Alerts)
 
 [SwiftUI - Calling 📞](https://github.com/cmlcrn17/SwiftUI-Calling)
 
