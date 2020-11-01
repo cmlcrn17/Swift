@@ -23,5 +23,5 @@
 
 # Uygulamalar
 
-[TODO List - Firebase Man. ](https://github.com/cmlcrn17/SwiftUITodoList)
+[TODO List - Firebase Man. ](https://github.com/cmlcrn17/TODOList)
 
