@@ -29,6 +29,9 @@
 
 [Project 1 - We Split](https://github.com/cmlcrn17/Day16WeSplit/tree/main)
 
+[Project 1 - Challenge Day](https://github.com/cmlcrn17/ChallengeDay1/tree/main)
+
+
 # Uygulamalar
 
 [TODO List - Firebase Man. ](https://github.com/cmlcrn17/TODOList)
